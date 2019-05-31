@@ -1,0 +1,2 @@
+edited c++ files for g++.  Added a readme
+
